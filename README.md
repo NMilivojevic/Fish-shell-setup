@@ -8,6 +8,6 @@ Initial system script was made for: Ubuntu 22.04.2 LTS
 
 Initialize the script with:
 
-<code>sh fish_install.sh</code>
+<code>bash fish_install.sh</code>
 
 To be sure changes have taken effect, reboot the system, or log out and then log back in.
