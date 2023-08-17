@@ -1,6 +1,6 @@
 # Fish shell setup
 
-Initial system script was made for: Ubuntu 22.04.2 LTS
+Initial system script was made for: Ubuntu 22.04.2 LTS, and macOS Ventura 13.5
 
 -   installs fish shell using apt
 -   sets up fish as default shell
